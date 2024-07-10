@@ -1,0 +1,15 @@
+04/07/2024 03:37:18 - Job run
+04/07/2024 03:37:41 - Job run
+
+Traceback (most recent call last):
+  File "/Users/ixxc/Downloads/API_ada-1/./src/prediction.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+
+04/07/2024 03:53:45 - Job run
+
+Traceback (most recent call last):
+  File "/Users/ixxc/Downloads/API_ada-1/./src/prediction.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+

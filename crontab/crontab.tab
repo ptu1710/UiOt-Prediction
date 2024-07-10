@@ -1,0 +1,1 @@
+0 21 * * * python3 ./src/prediction.py >> ./logs/cron.log 2>&1
